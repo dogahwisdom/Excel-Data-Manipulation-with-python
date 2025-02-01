@@ -1,0 +1,2 @@
+# Excel Data Manipulation with python
+ This project demonstrates how to manipulate and visualize Excel data using Python. It leverages the power of openpyxl for Excel operations, pandas for data manipulation, and win32com to interact with Excel applications programmatically. This project automates the process of creating an Excel workbook from a pandas DataFrame and then opens the resulting file using Excel.
